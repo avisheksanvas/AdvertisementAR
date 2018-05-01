@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/avisheksanvas/AdvertisementAR">
-    <img alt="" title="Vision" src="https://raw.githubusercontent.com/mkfeuhrer/JarvisBot/master/images/JarvisBot.gif" width="550">
+    <img alt="" title="Vision" src="https://raw.githubusercontent.com/avisheksanvas/AdvertisementAR/master/AR.jpg" width="550">
   </a>
 </p>
 <p align="center">
