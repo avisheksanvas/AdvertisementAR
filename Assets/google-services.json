@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "684971676585",
+    "firebase_url": "https://vadd-ef60b.firebaseio.com",
+    "project_id": "vadd-ef60b",
+    "storage_bucket": "vadd-ef60b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684971676585:android:94b81c9ca9a4653c",
+        "android_client_info": {
+          "package_name": "com.avisheksanvas.vadd1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684971676585-n9tukvrvpju9ougrjn0gp6evbq0mj154.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBznXbC_GCHFUfI_5TkxXEfTtYg0op6yO0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
