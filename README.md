@@ -57,5 +57,7 @@ Feel free to send us feedback on [Email](mailto:avisheksanvas@gmail.com) or [fil
 
 # Acknowledgement
 
-Thanks to [Unity](https://unity3d.com) for providing their platoform.
-Built with <strong>Love @ HINT'18</strong>
+Thanks to [Unity](https://unity3d.com) for providing their platform.
+Thanks to [Vuforia](https://www.vuforia.com/) for providing their SDK for Unity.
+
+Built with <strong><3</strong>
