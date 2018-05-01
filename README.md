@@ -20,7 +20,7 @@
 # Introduction
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/avisheksanvas/AdvertisementAR)
-[![GitHub Stars](https://img.shields.io/github/stars/Abhey/Vision.svg)](https://github.com/avisheksanvas/AdvertisementAR) 
+[![GitHub Stars](https://img.shields.io/github/stars/avisheksanvas/AdvertisementAR.svg)](https://github.com/avisheksanvas/AdvertisementAR) 
 [![Current Version](https://img.shields.io/badge/version-1.1-green.svg)](https://github.com/avisheksanvas/AdvertisementAR)<br>
 
 <p>An all new and appealing way to advertise products!</p>
