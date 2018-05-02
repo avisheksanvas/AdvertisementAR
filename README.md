@@ -26,10 +26,6 @@
 <p>
 With this android application we try to change the way advertising is done. We take a step to moving from static advertisements to virtual, dynamic advertisements, with the help of augmented reality. Yearly, millions and billions of dollars are wasted on printing advertisement hoardings. If we could just make the advertisements virtual and print only once, then we could save a lot of resources. Moreover, virtual advertisements have the advantage of being more appealing to the eye. Also, they can portray the product better, with its full 3D image. The real properties of the product can be seen by the users. In this application, users can scan images with their mobile phone or an augmented reality capable device and view the video linked to that image, in augmented reality, on top of the image itself. Advertisers on the other hand can upload images and the link to the video, to a cloud database which is scanned each time a user tries to view advertisements.</p>
 
-<p align="center">
-<img src = "https://raw.githubusercontent.com/mkfeuhrer/Vision/master/unity.jpg"/>
-</p>
-
 # Features
 
 * Advertisers can upload pictures and links related to them to the cloud database.
@@ -39,7 +35,7 @@ With this android application we try to change the way advertising is done. We t
 
 # Demo
 
-Link to demo video: [Video](https://github.com/avisheksanvas/AdvertisementAR)
+(Coming soon!) Link to demo video: [Video](https://github.com/avisheksanvas/AdvertisementAR)
 
 # Feedback
 Feel free to send us feedback on [Email](mailto:avisheksanvas@gmail.com) or [file an issue](https://github.com/avisheksanvas/AdvertisementAR/issues).
