@@ -31,8 +31,10 @@
 
 # Features
 
-* Play videos on top of images loaded to the cloud database
-
+* Advertisers can upload pictures and links related to them to the cloud database.
+* Customers can view the advertisements with the android application
+* Customer can review the product 
+* Global reviews that can be viewed by all users
 
 # Demo
 
@@ -44,6 +46,7 @@ Feel free to send us feedback on [Email](mailto:avisheksanvas@gmail.com) or [fil
 # Contributors
 
 <ul>
+  <li> <a href="https://github.com/aman-1208">Aman Gangwar</a></li>
   <li> <a href="https://github.com/avisheksanvas">Avishek Sanvas</a></li>
 </ul>
 
@@ -57,7 +60,10 @@ Feel free to send us feedback on [Email](mailto:avisheksanvas@gmail.com) or [fil
 
 # Acknowledgement
 
-Thanks to [Unity](https://unity3d.com) for providing their platform.
-Thanks to [Vuforia](https://www.vuforia.com/) for providing their SDK for Unity.
+<ul>
+  <li>Thanks to [Unity](https://unity3d.com) for providing their platform.</li>
+  <li>Thanks to [Vuforia](https://www.vuforia.com/) for providing their SDK for Unity.</li>
+  <li>Thanks to [Firebase](https://firebase.google.com/) for providing their API.</li>
+</ul>
 
 Built with <strong><3</strong>
