@@ -45,6 +45,7 @@ Feel free to send us feedback on [Email](mailto:avisheksanvas@gmail.com) or [fil
 <ul>
   <li> <a href="https://github.com/aman-1208">Aman Gangwar</a></li>
   <li> <a href="https://github.com/avisheksanvas">Avishek Sanvas</a></li>
+  <li> <a href="https://github.com/ts49">Ashish Kumar</a></li>
 </ul>
 
 # Contribute
