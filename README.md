@@ -61,9 +61,9 @@ Feel free to send us feedback on [Email](mailto:avisheksanvas@gmail.com) or [fil
 # Acknowledgement
 
 <ul>
-  <li>Thanks to [Unity](https://unity3d.com) for providing their platform.</li>
-  <li>Thanks to [Vuforia](https://www.vuforia.com/) for providing their SDK for Unity.</li>
-  <li>Thanks to [Firebase](https://firebase.google.com/) for providing their API.</li>
+  <li>Thanks to <a href="https://unity3d.com">Unity</a> for providing their platform.</li>
+  <li>Thanks to <a href="https://www.vuforia.com">Vuforia</a> for providing their SDK for Unity.</li>
+  <li>Thanks to <a href="https://firebase.google.com">Firebase</a> for providing their API.</li>
 </ul>
 
 Built with <strong><3</strong>
