@@ -35,11 +35,11 @@ With this android application we try to change the way advertising is done. We t
 
 # Screenshots
 
-<img alt="" title="S1" src="https://raw.githubusercontent.com/avisheksanvas/AdvertisementAR/master/S1.jpeg"
-<img alt="" title="S2" src="https://raw.githubusercontent.com/avisheksanvas/AdvertisementAR/master/S2.jpeg"
-<img alt="" title="S3" src="https://raw.githubusercontent.com/avisheksanvas/AdvertisementAR/master/S3.jpeg"
-<img alt="" title="S4" src="https://raw.githubusercontent.com/avisheksanvas/AdvertisementAR/master/S4.jpeg"
-<img alt="" title="S5" src="https://raw.githubusercontent.com/avisheksanvas/AdvertisementAR/master/S5.jpeg"
+<img alt="" title="S1" src="https://raw.githubusercontent.com/avisheksanvas/AdvertisementAR/master/S1.jpeg">
+<img alt="" title="S2" src="https://raw.githubusercontent.com/avisheksanvas/AdvertisementAR/master/S2.jpeg">
+<img alt="" title="S3" src="https://raw.githubusercontent.com/avisheksanvas/AdvertisementAR/master/S3.jpeg">
+<img alt="" title="S4" src="https://raw.githubusercontent.com/avisheksanvas/AdvertisementAR/master/S4.jpeg">
+<img alt="" title="S5" src="https://raw.githubusercontent.com/avisheksanvas/AdvertisementAR/master/S5.jpeg">
 
 # Feedback
 Feel free to send us feedback on [Email](mailto:avisheksanvas@gmail.com) or [file an issue](https://github.com/avisheksanvas/AdvertisementAR/issues).
