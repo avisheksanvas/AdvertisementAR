@@ -36,6 +36,7 @@ With this android application we try to change the way advertising is done. We t
 # Screenshots
 
 <img alt="" title="S1" src="S1.jpeg" width="200" height="400"><img alt="" title="S2" src="S2.jpeg" width="200" height="400">
+
 <img alt="" title="S3" src="S3.jpeg" width="200" height="400"><img alt="" title="S4" src="S4.jpeg" width="200" height="400"><img alt="" title="S5" src="S5.jpeg" width="200" height="400">
 
 # Feedback
